@@ -116,6 +116,7 @@ int main() {
 }
 ## OUTPUT
 $ ./sem.o 
+
 <img width="366" height="453" alt="Screenshot 2026-05-14 082236" src="https://github.com/user-attachments/assets/d76ddddb-c855-4def-858d-d3e89b967d05" />
 
 $ ipcs
